@@ -1,0 +1,52 @@
+#search-form-input {
+  max-width: 800px;
+  margin: 0 auto;
+  display: inline-block;
+  border: 2px solid #aec6cf;
+  border-radius: 20px;
+  margin-right: 0;
+}
+.search_butn {
+  max-width: 100px;
+  margin: 0 auto;
+  display: block;
+  border: 1px solid #433f5e;
+  border-radius: 20px;
+  margin-left: 0;
+}
+
+.card {
+  display: block;
+  text-align: left;
+  padding: 30px;
+  margin: 0 auto;
+  max-width: 800px;
+  border: 1px solid grey;
+  border-radius: 20px;
+}
+.weekDays {
+  position: relative;
+  margin-left: 25px;
+  font-family: Google Sans, arial, sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+}
+.card-text {
+  position: relative;
+  margin-left: 70px;
+  margin-top: 30px;
+  font-weight: 370;
+  font-size: 50px;
+  font-family: Google Sans, arial, sans-serif;
+}
+.degrees {
+  font-weight: 100;
+  color: grey;
+  font-size: small;
+}
+#newCity {
+  font-family: Google Sans, arial, sans-serif;
+  font-size: 25px;
+  margin-left: 10px;
+}
